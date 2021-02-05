@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ITHUB Messanger</string>
+    <string name="menu_chats_string">Чаты</string>
+    <string name="menu_profile_string">Профиль</string>
+</resources>
